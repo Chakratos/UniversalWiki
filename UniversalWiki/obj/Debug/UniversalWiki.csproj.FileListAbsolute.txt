@@ -1,0 +1,13 @@
+c:\users\chakratos\documents\visual studio 2013\Projects\UniversalWiki\UniversalWiki\bin\Debug\UniversalWiki.exe.config
+c:\users\chakratos\documents\visual studio 2013\Projects\UniversalWiki\UniversalWiki\bin\Debug\UniversalWiki.exe
+c:\users\chakratos\documents\visual studio 2013\Projects\UniversalWiki\UniversalWiki\bin\Debug\UniversalWiki.pdb
+c:\users\chakratos\documents\visual studio 2013\Projects\UniversalWiki\UniversalWiki\obj\Debug\UniversalWiki.csprojResolveAssemblyReference.cache
+c:\users\chakratos\documents\visual studio 2013\Projects\UniversalWiki\UniversalWiki\obj\Debug\MainWindow.baml
+c:\users\chakratos\documents\visual studio 2013\Projects\UniversalWiki\UniversalWiki\obj\Debug\MainWindow.g.cs
+c:\users\chakratos\documents\visual studio 2013\Projects\UniversalWiki\UniversalWiki\obj\Debug\App.g.cs
+c:\users\chakratos\documents\visual studio 2013\Projects\UniversalWiki\UniversalWiki\obj\Debug\UniversalWiki_MarkupCompile.cache
+c:\users\chakratos\documents\visual studio 2013\Projects\UniversalWiki\UniversalWiki\obj\Debug\UniversalWiki.g.resources
+c:\users\chakratos\documents\visual studio 2013\Projects\UniversalWiki\UniversalWiki\obj\Debug\UniversalWiki.Properties.Resources.resources
+c:\users\chakratos\documents\visual studio 2013\Projects\UniversalWiki\UniversalWiki\obj\Debug\UniversalWiki.csproj.GenerateResource.Cache
+c:\users\chakratos\documents\visual studio 2013\Projects\UniversalWiki\UniversalWiki\obj\Debug\UniversalWiki.exe
+c:\users\chakratos\documents\visual studio 2013\Projects\UniversalWiki\UniversalWiki\obj\Debug\UniversalWiki.pdb
