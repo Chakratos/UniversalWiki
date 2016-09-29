@@ -35,6 +35,7 @@ namespace UniversalWiki
         string article;
         string stretch;
         XmlDocument itemDoc = new XmlDocument();
+
         public MainWindow()
         {
             InitializeComponent();
@@ -44,6 +45,7 @@ namespace UniversalWiki
             this.comboArticle.SelectionChanged += new SelectionChangedEventHandler(OnArticleChanged);
             LoadGames();
         }
+
         public void LoadGames()
         {
             if (!Directory.Exists(path + "\\Games"))
@@ -61,6 +63,7 @@ namespace UniversalWiki
             }
             this.comboGame.ItemsSource = list;
         }
+
         private void OnGameChanged(object sender, SelectionChangedEventArgs e)
         {
             try
@@ -106,6 +109,7 @@ namespace UniversalWiki
 
             }
         }
+
         private void OnCategoryChanged(object sender, SelectionChangedEventArgs e)
         {
             try
@@ -155,6 +159,7 @@ namespace UniversalWiki
                 comboSubCategory.ItemsSource = list;
             }
         }
+
         private void OnSubCategoryChanged(object sender, SelectionChangedEventArgs e)
         {
             try
@@ -202,6 +207,7 @@ namespace UniversalWiki
                 comboArticle.ItemsSource = list;
             }
         }
+
         private void OnArticleChanged(object sender, SelectionChangedEventArgs e)
         {
             try
@@ -316,12 +322,12 @@ namespace UniversalWiki
 
         private void btnCredits_Click(object sender, RoutedEventArgs e)
         {
-            System.Diagnostics.Process.Start("http://www.chakratos.comlu.com/about.html");
+            System.Diagnostics.Process.Start("http://www.chakratos.com/about.html");
         }
 
         private void btnMore_Click(object sender, RoutedEventArgs e)
         {
-            System.Diagnostics.Process.Start("http://www.chakratos.comlu.com/Wikis.html");
+            System.Diagnostics.Process.Start("http://www.chakratos.com/Wikis.html");
         }
     }
 }
